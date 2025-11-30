@@ -2,10 +2,12 @@
 
 A simple, full-featured blogging application built with Django.
 
-## Features
+
 <p align="center">
   <img src="Screenshot 2025-11-30 155405.png" alt="Screenshot" />
 </p>
+
+## Features
 *   **User Authentication:**
     *   User Registration
     *   Login / Logout
@@ -35,7 +37,7 @@ A simple, full-featured blogging application built with Django.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/PSW9102004/Blog_App_Django.git
+    git clone https://github.com/rajjpandeyy/Blog_App_Django.git
     cd Blog_App_Django
     ```
 
